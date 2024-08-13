@@ -1,4 +1,6 @@
-**Hi there 👋 I’m Harsha Pariyani
+![Uploading image.png…]()
+
+**Hi there 👋 I’m Harsha Pariyani**
 I'm a data analyst with 3 years of experience in transforming data into actionable insights. I specialize in data visualization,statistical analysis, and leveraging machine learning techniques to solve complex problems. Passionate about turning data into stories and driving data-informed decision-making
 👀 I’m interested in using data to uncover insights, optimizing processes, and applying machine learning to drive impactful decisions
 🌱 I’m currently learning advanced data visualization techniques and exploring the latest trends in machine learning and AI.
