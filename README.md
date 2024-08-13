@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![data-scientist-gifts-big-data-lover-data-science](https://github.com/user-attachments/assets/b9f36666-57e3-49f6-9588-e9d0354bfbc0)
 
 **Hi there 👋 I’m Harsha Pariyani**
 I'm a data analyst with 3 years of experience in transforming data into actionable insights. I specialize in data visualization,statistical analysis, and leveraging machine learning techniques to solve complex problems. Passionate about turning data into stories and driving data-informed decision-making
